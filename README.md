@@ -1,4 +1,6 @@
-The purpose of this project is to successfully build a personal webaite in order to showcase my coding projects for future employement, collaboration and criticism.
+# Elijah's Portfolio
+
+The purpose of this project is to build a website for the purpose of showcasing my coding projects for future employment and collaboration.
 
 Project Notes:
 
